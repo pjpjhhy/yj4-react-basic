@@ -9,7 +9,7 @@ function App() {
         <ul>
           <li>카톡 안녕가이드</li>
           <li> | 카톡 설명서</li>
-          <li> | 다운로드</li>
+          <li> | 다운로드 ㅇㅇ</li>
         </ul>
       </div>
       <div className="text">
